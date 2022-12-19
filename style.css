@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.guesses,.ans,.hint{
+    display: block;
+}
+
+
+p{
+    font-size: 20px;
+}
+
+
+.new-btn{
+    padding:10px 10px;
+    border:none;
+    border-radius: 8px;
+    background-color: skyblue;
+    color: purple;
+}
